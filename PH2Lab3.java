@@ -131,7 +131,7 @@ public class PH2Lab3 {
 		System.out.println("q: " + lab.q(xb5, xc5));
 		System.out.println("Uncertain q: " + lab.unq(xb5, xc5) + '\n');
 		
-		System.out.println("Trial 5:");
+		System.out.println("Trial 6:");
 		System.out.println("Deflection: " + lab.deflection(xb6));
 		System.out.println("Uncertain Deflection: " + lab.undeflection());
 		System.out.println("r: " + lab.r(xb6, xc6));
